@@ -66,13 +66,7 @@
     googletag.pubads().enableSingleRequest();
     googletag.enableServices();
   });
-</script><meta name="google-adsense-account" content="ca-pub-1253622592406429"><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-C6VTSJT6JV"></script><script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-C6VTSJT6JV');
-</script></head>
+</head>
 
 
 
@@ -128,7 +122,7 @@
   <div class="col-md-12">
 	<div class="container login-container">
 		<center>
-				<a href="#" style="font-size:26px;" data-url="https://youtube.com/@jatomods" class="genric-btn danger radius e-large btnInicial">
+				<a href="#" style="font-size:26px;" data-url="https://www.youtube.com/@dkpremium" class="genric-btn danger radius e-large btnInicial">
 		
 		<i class="fa fa-youtube"></i> 		
 				
